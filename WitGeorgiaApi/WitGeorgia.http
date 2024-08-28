@@ -1,0 +1,6 @@
+@WitGeorgia_HostAddress = http://localhost:5022
+
+GET {{WitGeorgia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
