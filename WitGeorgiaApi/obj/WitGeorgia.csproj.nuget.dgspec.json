@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgia.csproj": {}
+    "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgia.csproj": {
+    "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgia.csproj",
+        "projectUniqueName": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj",
         "projectName": "WitGeorgia",
-        "projectPath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgia.csproj",
+        "projectPath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj",
         "packagesPath": "C:\\Users\\DALAQA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\obj\\",
+        "outputPath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DALAQA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DALAQA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +49,24 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
