@@ -1,14 +1,12 @@
-﻿namespace WitGeorgia.Model;
+﻿namespace WitGeorgia.Dtos;
 
-public class Player
+public class CreatePlayerDto
 {
-    public int Id { get; set; }
     public string FirstName { get; set; } = String.Empty;
     public string LastName { get; set; } = String.Empty;
-    public DateTime CreatedDate { get; set; }
+    public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
     public long? PersonalNumber { get; set; }
     public int? Salary { get; set; }
     public long? PhoneNumber { get; set; }
     public DateTime Birthday { get; set; }
-    public DateTime DeletedDate { get; set; }
 }

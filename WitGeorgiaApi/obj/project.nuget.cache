@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Au/Ub2XqMxM=",
+  "dgSpecHash": "59nPaVg+o7c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj",
+  "projectFilePath": "C:\\Users\\DALAQA\\RiderProjects\\Fc-Wit-Georiga\\WitGeorgiaApi\\WitGeorgia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DALAQA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DALAQA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

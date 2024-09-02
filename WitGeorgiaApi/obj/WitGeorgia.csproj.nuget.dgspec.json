@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj": {}
+    "C:\\Users\\DALAQA\\RiderProjects\\Fc-Wit-Georiga\\WitGeorgiaApi\\WitGeorgia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj": {
+    "C:\\Users\\DALAQA\\RiderProjects\\Fc-Wit-Georiga\\WitGeorgiaApi\\WitGeorgia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj",
+        "projectUniqueName": "C:\\Users\\DALAQA\\RiderProjects\\Fc-Wit-Georiga\\WitGeorgiaApi\\WitGeorgia.csproj",
         "projectName": "WitGeorgia",
-        "projectPath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\WitGeorgia.csproj",
+        "projectPath": "C:\\Users\\DALAQA\\RiderProjects\\Fc-Wit-Georiga\\WitGeorgiaApi\\WitGeorgia.csproj",
         "packagesPath": "C:\\Users\\DALAQA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DALAQA\\RiderProjects\\WitGeorgia\\WitGeorgiaApi\\obj\\",
+        "outputPath": "C:\\Users\\DALAQA\\RiderProjects\\Fc-Wit-Georiga\\WitGeorgiaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DALAQA\\AppData\\Roaming\\NuGet\\NuGet.Config",
