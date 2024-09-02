@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WitGeorgia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36675cb41efd2cc5347096376c959dcc7e701c11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc041c4812a7437dd9a03dbe02694ef7014286a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WitGeorgia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WitGeorgia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
