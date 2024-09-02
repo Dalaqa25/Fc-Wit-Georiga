@@ -11,9 +11,9 @@ using WitGeorgia.Data;
 
 namespace WitGeorgia.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
-    [Migration("20240828141741_InitialCreate")]
-    partial class InitialCreate
+    [DbContext(typeof(ApplicationDbContext))]
+    [Migration("20240902064629_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,6 +24,33 @@ namespace WitGeorgia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
+
+            modelBuilder.Entity("WitGeorgia.Model.DeletedPlayers", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("Birthday")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<DateTime>("DeletedDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("DeletedPlayers");
+                });
 
             modelBuilder.Entity("WitGeorgia.Model.Player", b =>
                 {
@@ -50,13 +77,13 @@ namespace WitGeorgia.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<int>("PersonalNumber")
-                        .HasColumnType("integer");
+                    b.Property<long?>("PersonalNumber")
+                        .HasColumnType("bigint");
 
-                    b.Property<int>("PhoneNumber")
-                        .HasColumnType("integer");
+                    b.Property<long?>("PhoneNumber")
+                        .HasColumnType("bigint");
 
-                    b.Property<int>("Salary")
+                    b.Property<int?>("Salary")
                         .HasColumnType("integer");
 
                     b.HasKey("Id");
