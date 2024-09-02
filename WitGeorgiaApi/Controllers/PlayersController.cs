@@ -97,4 +97,25 @@ public class PlayersController : ControllerBase
         
         return Ok(new { Message = "Player deleted successfully", DeletedPlayers = deltedPlayer.DeletedDate });
     }
+    
+    // if player DNE return to found
+    // Make everything what should be updated
+    // Save changes
+
+    [HttpPut("{id}")]
+    public async Task<IActionResult> UpdatePlayer([FromRoute] int id, [FromBody] UpdatePlayerDto updatePlayerDto)
+    {
+        var playerModel = await _context.Players.FirstOrDefaultAsync(x => x.Id == id);
+
+        if (playerModel == null)
+            return NotFound();
+        
+        playerModel.Salary = updatePlayerDto.Salary;
+        playerModel.PhoneNumber = updatePlayerDto.PhoneNumber;
+        
+        await _context.SaveChangesAsync();
+
+        return Ok(playerModel);
+    }
+
 }
