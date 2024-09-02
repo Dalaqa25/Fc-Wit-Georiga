@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using WitGeorgia.Dtos;
 using WitGeorgia.Model;
 
 namespace WitGeorgia.Data;
 
-public class ApplicationDbContext : DbContext
+public class ApplicationDbContext : IdentityDbContext<AppUser>
 {
     public ApplicationDbContext( DbContextOptions options) : base(options)
     {
