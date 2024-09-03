@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\viewsmodel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\viewsmodel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\dtos\\updateplayerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\dtos\\updateplayerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\viewsmodel\\deletedplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\viewsmodel\\deletedplayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|c:\\users\\dalaqa\\source\\repos\\witgeorgiamvc\\witgeorgiamvc\\dtos\\createplayerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513C80F4-FE07-45CE-96A6-4B9833608697}|WitGeorgiaMVC\\WitGeorgiaMVC.csproj|solutionrelative:witgeorgiamvc\\dtos\\createplayerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\ViewsModel\\Player.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\ViewsModel\\Player.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\ViewsModel\\Player.cs",
+              "RelativeToolTip": "WitGeorgiaMVC\\ViewsModel\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:09:41.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdatePlayerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Dtos\\UpdatePlayerDto.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Dtos\\UpdatePlayerDto.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Dtos\\UpdatePlayerDto.cs",
+              "RelativeToolTip": "WitGeorgiaMVC\\Dtos\\UpdatePlayerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:05:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeletedPlayers.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\ViewsModel\\DeletedPlayers.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\ViewsModel\\DeletedPlayers.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\ViewsModel\\DeletedPlayers.cs",
+              "RelativeToolTip": "WitGeorgiaMVC\\ViewsModel\\DeletedPlayers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:01:57.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Program.cs",
+              "RelativeToolTip": "WitGeorgiaMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:54:47.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "WitGeorgiaMVC\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:53:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WitGeorgiaMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T07:53:09.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WitGeorgiaMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T07:53:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WitGeorgiaMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:49:27.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WitGeorgiaMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T07:52:59.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WitGeorgiaMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T07:52:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePlayerDto.cs",
+              "DocumentMoniker": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Dtos\\CreatePlayerDto.cs",
+              "RelativeDocumentMoniker": "WitGeorgiaMVC\\Dtos\\CreatePlayerDto.cs",
+              "ToolTip": "C:\\Users\\DALAQA\\source\\repos\\WitGeorgiaMVC\\WitGeorgiaMVC\\Dtos\\CreatePlayerDto.cs",
+              "RelativeToolTip": "WitGeorgiaMVC\\Dtos\\CreatePlayerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:51:40.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

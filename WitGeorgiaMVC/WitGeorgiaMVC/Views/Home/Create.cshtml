@@ -1,0 +1,45 @@
+﻿@model WitGeorgiaMVC.ViewsModel.Player
+
+@{
+    ViewData["Title"] = "Create Player";
+}
+
+<h2>Create Player</h2>
+
+@using (Html.BeginForm("Create", "Home", FormMethod.Post))
+{
+<div>
+    @Html.LabelFor(model => model.FirstName)
+    @Html.TextBoxFor(model => model.FirstName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+</div>
+<div>
+    @Html.LabelFor(model => model.LastName)
+    @Html.TextBoxFor(model => model.LastName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+</div>
+<div>
+    @Html.LabelFor(model => model.Salary)
+    @Html.TextBoxFor(model => model.Salary, new { @class = "form-control" })
+</div>
+<div>
+    @Html.LabelFor(model => model.PhoneNumber)
+    @Html.TextBoxFor(model => model.PhoneNumber, new { @class = "form-control" })
+</div>
+<div>
+    @Html.LabelFor(model => model.PersonalNumber)
+    @Html.TextBoxFor(model => model.PersonalNumber, new { @class = "form-control" })
+    @Html.ValidationMessageFor(model => model.PersonalNumber, "", new { @class = "text-danger" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(model => model.Birthday)
+    @Html.TextBoxFor(model => model.Birthday, new { @class = "form-control", type = "datetime-local" })
+    @Html.ValidationMessageFor(model => model.Birthday, "", new { @class = "text-danger" })
+</div>
+
+<button type="submit" class="btn btn-primary mt-2">Create</button>
+}
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
